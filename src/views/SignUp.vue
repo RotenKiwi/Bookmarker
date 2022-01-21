@@ -6,6 +6,7 @@
             <input type="password" placeholder="Password" v-model="password"><br>
             <button>Submit</button>
         </form>
+    <hr> Signed in:{{isAuthenticated}}
     </div>
 </template>
 
@@ -17,6 +18,7 @@ export default{
         return{
             email:'',
             password:'',
+            isAunthenticated: false
         }
     },
     methods:{
