@@ -24,7 +24,7 @@
 </template>
 
 <style>
-@import "../node_module/bulma/css/bulma.css",
+@import "../node_module/bulma/css/bulma.css";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
