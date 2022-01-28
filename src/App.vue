@@ -38,7 +38,7 @@
 }
 
 #nav a {
-  font-weight: bold;
+  font-weight: bolder;
   color: #2c3e50;
 }
 
