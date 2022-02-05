@@ -15,7 +15,7 @@ const firebaseConfig = {
   authDomain: "bookmarker-84791.firebaseapp.com",
   projectId: "bookmarker-84791",
   storageBucket: "bookmarker-84791.appspot.com",
-  messagingSenderId: "955962479961",
+  messagingSenderId: "955924992966",
   appId: "1:955924992966:web:cd8a79ed6bab68a3d2d8c7"
 };
 
